@@ -1,2 +1,2 @@
-# SMSSPAMPREDICTION
+# SMS SPAM PREDICTION
 This project focuses on classifying SMS messages as spam or non-spam using machine learning techniques in Python. The dataset, sourced from Kaggle, was preprocessed using libraries such as pandas and numpy. Exploratory data analysis and model selection were conducted in Jupyter Notebook, utilizing scikit-learn for model training and evaluation. After experimenting with various algorithms, the Extra Trees Classifier was chosen for its performance. This repository includes the dataset, Jupyter Notebook with the analysis and model training code, and a README for guidance.
